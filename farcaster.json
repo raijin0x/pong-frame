@@ -1,0 +1,17 @@
+{
+    "frame": {
+      "version": "1",
+      "name": "Pong Frame",
+      "iconUrl": "https://pong-frame.vercel.app/icon.png",
+      "homeUrl": "https://pong-frame.vercel.app/",
+      "splashImageUrl": "https://pong-frame.vercel.app/logo.png",
+      "splashBackgroundColor": "#000000",
+      "subtitle": "เล่นปิงปองบน Farcaster",
+      "description": "เกมปิงปองสุดมันส์ เล่นได้บน Farcaster Mini App",
+      "primaryCategory": "games",
+      "tags": ["pong", "game", "farcaster"],
+      "ogTitle": "Pong Frame",
+      "ogDescription": "เล่นปิงปองบน Farcaster Mini App",
+      "ogImageUrl": "https://pong-frame.vercel.app/og-image.png"
+    }
+  }
