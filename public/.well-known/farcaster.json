@@ -1,7 +1,7 @@
 {
-    "name": "Pong Frame",
-    "description": "A fun Pong game as a Farcaster Mini App.",
-    "website": "https://pong-frame.vercel.app/",
-    "splashImageUrl": "https://pong-frame.vercel.app/your-splash-image.png",
-    "splashBackgroundColor": "#ffffff"
-  }
+  "name": "Pong Frame",
+  "description": "A fun Pong game as a Farcaster Mini App.",
+  "website": "https://pong-frame.vercel.app/",
+  "splashImageUrl": "https://pong-frame.vercel.app/your-splash-image.png",
+  "splashBackgroundColor": "#ffffff"
+}
